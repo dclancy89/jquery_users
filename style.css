@@ -10,6 +10,10 @@
 	width: 50%;
 }
 
+th, td {
+	padding: 10px 4px;
+}
+
 #user_table {
 	border: 2px solid black;
 	width: 90%;
@@ -38,4 +42,8 @@
 	display: table;
 	margin-right: 0;
 	margin-left: auto;
+}
+
+#add_users h1 {
+	border-bottom: 1px solid black;
 }

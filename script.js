@@ -13,7 +13,7 @@ $(document).ready(function() {
 		row += '</tr>';
 
 		$('#user_table tbody').append(row);
-		$('#add_user').children('label').children('input[type="text"]').val('');
+		$('#add_users').children('label').children('input[type="text"]').val('');
 	});
 
 
